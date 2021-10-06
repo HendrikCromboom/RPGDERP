@@ -1,0 +1,16 @@
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\RPGDERP.exe
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\RPGDERP.deps.json
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\RPGDERP.runtimeconfig.json
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\RPGDERP.runtimeconfig.dev.json
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\RPGDERP.dll
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\ref\RPGDERP.dll
+C:\Users\Hendrik\source\repos\RPGDERP\bin\Debug\net5.0\RPGDERP.pdb
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.csproj.AssemblyReference.cache
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.AssemblyInfoInputs.cache
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.AssemblyInfo.cs
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.csproj.CoreCompileInputs.cache
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.dll
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\ref\RPGDERP.dll
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.pdb
+C:\Users\Hendrik\source\repos\RPGDERP\obj\Debug\net5.0\RPGDERP.genruntimeconfig.cache
